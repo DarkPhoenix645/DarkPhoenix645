@@ -9,3 +9,4 @@ Hello hello 👋
 PS : do I seem confused about what to do? that's because I am
 
 ![](https://komarev.com/ghpvc/?username=DarkPhoenix645&color=blueviolet&label=Profile+Views)
+![](https://hit.yhype.me/github/profile?user_id=58515762)
