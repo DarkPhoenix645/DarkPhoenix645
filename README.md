@@ -1,4 +1,4 @@
-`I'm Nilanjan, final-year CS at ABV-IIITM Gwalior. I like the parts of software nobody screenshots: queues, retries, the event that shows up twice and must not pay out twice, the log someone may have to defend in court. I am deeply interested in distributed systems, cloud native deployments, backend engineering, agentic workflows and applied AI.
+I'm Nilanjan, final-year CS at ABV-IIITM Gwalior. I like the parts of software nobody screenshots: queues, retries, the event that shows up twice and must not pay out twice, the log someone may have to defend in court. I am deeply interested in distributed systems, cloud native deployments, backend engineering, agentic workflows and applied AI.
 
 **What I've been building**
 
@@ -20,8 +20,8 @@
   <img alt="C++, Java, Python, Go, Spring, FastAPI, Kafka, Postgres, Docker, AWS, React, Arch Linux" src="https://skillicons.dev/icons?i=cpp,java,py,go,spring,fastapi,kafka,postgres,docker,aws,react,arch&theme=dark&perline=12" />
 </picture>
 
-Looking for a backend, infra, or SWE internship for winter 2027 (January to July).
+Looking for a backend, infra, or SWE internship positions for winter 2027 (January to July).
+
 PS: Less confused than the last version of this page. Slightly.
 
 [nilanjanmitra.tech](https://nilanjanmitra.tech) · [LinkedIn](https://www.linkedin.com/in/nilanjanbmitra) · nilanjanbmitraiiitm@gmail.com
-`
