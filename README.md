@@ -14,14 +14,14 @@ I'm Nilanjan, final-year CS at ABV-IIITM Gwalior. I like the parts of software n
 - C++ for competitive programming. Before all of this it was shaders and image processing, and I still get distracted by them.
 - Mentored eight people at Devkriti 2025, and was responsible for coordinating and interviewing 15-plus seniors for Uthaan about how they actually got placed.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,java,py,go,spring,fastapi,kafka,postgres,docker,aws,react,arch&theme=dark&perline=12" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,java,py,go,spring,fastapi,kafka,postgres,docker,aws,react,arch&theme=light&perline=12" />
-  <img alt="C++, Java, Python, Go, Spring, FastAPI, Kafka, Postgres, Docker, AWS, React, Arch Linux" src="https://skillicons.dev/icons?i=cpp,java,py,go,spring,fastapi,kafka,postgres,docker,aws,react,arch&theme=dark&perline=12" />
-</picture>
 
 Looking for a backend, infra, or SWE internship positions for winter 2027 (January to July).
 
 PS: Less confused than the last version of this page. Slightly.
 
 [nilanjanmitra.tech](https://nilanjanmitra.tech) · [LinkedIn](https://www.linkedin.com/in/nilanjanbmitra) · nilanjanbmitraiiitm@gmail.com
+
+<img
+  alt="C++, Java, Python, Go, Spring, FastAPI, Kafka, Postgres, Docker, AWS, React, Arch Linux"
+  src="https://skillicons.dev/icons?i=cpp,java,py,go,spring,fastapi,kafka,postgres,docker,aws,react,arch&perline=12"
+/>
